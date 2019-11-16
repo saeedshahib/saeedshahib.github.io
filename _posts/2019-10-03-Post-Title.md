@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Sample post 1
+title: how to create a website like this
 ---
 
 This is a sample post:
