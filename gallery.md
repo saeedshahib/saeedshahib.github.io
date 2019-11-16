@@ -27,10 +27,6 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"    
-  - url: /Unknown.png
-    image_path: /Unkown.png
-    alt: "placeholder image 6"
-    title: "bmi"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
