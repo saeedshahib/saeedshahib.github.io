@@ -1,12 +1,13 @@
 ---
 layout: posts
-title: how to create a website like this
+title: زمانبندی
 ---
 
-This is a sample post:
-- *Post* one and **post** two.
-- bullet point two.
+÷ I talked to 6 TA's about schedueling lessons
+- There are some points i've got from their words:
+they told me how to study university lessons that are so much diffrent with high school
+and the main point was we have to appropriate most of our time studying lessons
+on the other hand we need to have fun beside study and we should'nt forget having fun
 
-![alt text](../assets/images/Unknown.png "BMI")
+
 ---
-**Test**: This is atest
