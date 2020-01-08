@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "calendly"
+      icon: "fas-fa-calender-alt"
+      url: "calendly.com/saeedshahib"
 
 # Site Footer
 footer:
@@ -153,6 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "calendly"
+      icon: "fas-fa-calender-alt"
+      url: "calendly.com/saeedshahib"
 
 
 # Reading Files
