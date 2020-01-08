@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: website
+title: mywebsite
 ---
 1- we created posts for our website
 2- we added photoes to it
