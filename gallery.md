@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/Unkown.png
     alt: "placeholder image 6"
     title: "bmi"
+  - url: /assets/images/IMG_7556.JPG
+    image_path: /assets/images/IMG_7556.JPG
+    alt: "placeholder image 7"
+    title: "just posted"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
