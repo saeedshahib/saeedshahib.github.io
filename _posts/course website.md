@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: زمانبندی
+title: website
 ---
 1- we created posts for our website
 2- we added photoes to it
